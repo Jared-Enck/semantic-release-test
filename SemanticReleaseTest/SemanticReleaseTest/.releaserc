@@ -2,7 +2,7 @@
     "branches": [
         "master",
       {
-        "name": "main/*",
+        "name": "dev/*",
         "channel": "test",
         "prerelease": true
       }
